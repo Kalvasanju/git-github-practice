@@ -1,3 +1,3 @@
-#Git  Preactice
-Name: Your full Name 
-I am learning Git and Github for AI development.
+# Git & Github Practice
+Name: Sahu  Srisahithi
+I am learning Git and Github for AI developmenr.
